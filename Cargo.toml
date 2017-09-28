@@ -1,0 +1,11 @@
+[package]
+name = "tokio_irc_client"
+version = "0.1.0"
+authors = ["eugen <abc@emailserver.com>"]
+
+[dependencies]
+futures="*"
+tokio-core="*"
+tokio-io="*"
+bytes="*"
+error-chain="*"
